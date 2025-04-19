@@ -3650,3 +3650,16 @@
 4/19/2025 | 4:11:36 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/19/2025 | 4:11:36 AM | INFO | Trying to activate mining on-chain for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
 4/19/2025 | 4:11:54 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x4d36ed208b6bed2d7cd1bfa6892b0fb79152eae3a559d45f3b2e8b5594db9551 
+4/19/2025 | 8:11:23 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/19/2025 | 8:11:23 AM | INFO | Start process for wallet 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+4/19/2025 | 8:11:24 AM | INFO | Trying To Login for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+4/19/2025 | 8:11:24 AM | INFO | Login successful... 
+4/19/2025 | 8:11:24 AM | INFO | Trying to check user info... 
+4/19/2025 | 8:11:25 AM | INFO | User ID: 103383686 | Twitter: @rianaodelia | Total Points: 1368000 
+4/19/2025 | 8:11:25 AM | INFO | Trying to check user miner status... 
+4/19/2025 | 8:12:00 AM | INFO | Last mining time: 4/18/2025, 12:46:48 AM
+4/19/2025 | 8:12:00 AM | INFO | Trying to start Mining for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+4/19/2025 | 8:12:16 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/19/2025 | 8:12:16 AM | INFO | Trying to activate mining on-chain for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+4/19/2025 | 8:12:17 AM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
+4/19/2025 | 8:12:17 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
