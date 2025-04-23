@@ -3888,3 +3888,15 @@
 4/23/2025 | 8:13:55 AM | INFO | Trying to check user miner status... 
 4/23/2025 | 8:13:56 AM | INFO | Last mining time: 4/22/2025, 12:18:27 PM
 4/23/2025 | 8:13:56 AM | WARN | Mining already started, next mining time is: 4/23/2025, 12:18:27 PM
+4/23/2025 | 12:18:41 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/23/2025 | 12:18:41 PM | INFO | Start process for wallet 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+4/23/2025 | 12:18:42 PM | INFO | Trying To Login for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+4/23/2025 | 12:18:43 PM | INFO | Login successful... 
+4/23/2025 | 12:18:43 PM | INFO | Trying to check user info... 
+4/23/2025 | 12:18:43 PM | INFO | User ID: 103383686 | Twitter: @rianaodelia | Total Points: 1440000 
+4/23/2025 | 12:18:43 PM | INFO | Trying to check user miner status... 
+4/23/2025 | 12:18:44 PM | INFO | Last mining time: 4/22/2025, 12:18:27 PM
+4/23/2025 | 12:18:44 PM | INFO | Trying to start Mining for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+4/23/2025 | 12:18:44 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/23/2025 | 12:18:44 PM | INFO | Trying to activate mining on-chain for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+4/23/2025 | 12:18:54 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x07f5ec2c93bcf88a5775908def379e6a6da7989c53671ccfe12c86b2d61e4c43 
