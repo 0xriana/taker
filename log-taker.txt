@@ -5444,3 +5444,12 @@
 5/20/2025 | 12:19:49 PM | INFO | Trying to activate mining on-chain for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
 5/20/2025 | 12:19:54 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86d8204655a822710831eab9082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a061afe5fec695edf6593002aab4d668ea3b82c82e19c9d7ae457293288c150926a0733ee667244d6fed8debe8d64ab2ec04952bf18c3b6da734cb8ab6cce160646c","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/20/2025 | 12:19:54 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 8:11:37 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:11:37 PM | INFO | Start process for wallet 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+5/20/2025 | 8:11:38 PM | INFO | Trying To Login for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+5/20/2025 | 8:11:39 PM | INFO | Login successful... 
+5/20/2025 | 8:11:39 PM | INFO | Trying to check user info... 
+5/20/2025 | 8:11:39 PM | INFO | User ID: 103383686 | Twitter: @rianaodelia | Total Points: 2040000 
+5/20/2025 | 8:11:39 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:11:40 PM | INFO | Last mining time: 5/20/2025, 4:12:39 PM
+5/20/2025 | 8:11:40 PM | WARN | Mining already started, next mining time is: 5/21/2025, 4:12:39 PM
