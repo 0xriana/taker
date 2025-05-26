@@ -5754,3 +5754,15 @@
 5/26/2025 | 4:23:40 AM | WARN | Retrying... (0 attempts left) 
 5/26/2025 | 4:25:59 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 5/26/2025 | 4:25:59 AM | ERROR | Failed to retrieve nonce for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+5/26/2025 | 8:19:55 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/26/2025 | 8:19:55 AM | INFO | Start process for wallet 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+5/26/2025 | 8:19:56 AM | INFO | Trying To Login for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+5/26/2025 | 8:19:57 AM | INFO | Login successful... 
+5/26/2025 | 8:19:57 AM | INFO | Trying to check user info... 
+5/26/2025 | 8:19:58 AM | INFO | User ID: 103383686 | Twitter: @rianaodelia | Total Points: 2136000 
+5/26/2025 | 8:19:58 AM | INFO | Trying to check user miner status... 
+5/26/2025 | 8:19:59 AM | INFO | Last mining time: 5/25/2025, 12:55:54 AM
+5/26/2025 | 8:19:59 AM | INFO | Trying to start Mining for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+5/26/2025 | 8:19:59 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/26/2025 | 8:19:59 AM | INFO | Trying to activate mining on-chain for wallet: 0x278d0e04B5A4903F3Fc3f854feA828764a5ba9E8 
+5/26/2025 | 8:20:09 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x73a9f734a0a32447b83988a35747a573c8e58a0771cf120390458ddf5e6cba7f 
